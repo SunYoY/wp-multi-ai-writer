@@ -129,7 +129,7 @@
 ## 技术支持
 
 - 插件基于 GPL v2 协议开源。
-- 如需帮助，请提交 issue 至插件 GitHub 仓库（如果公开）或联系开发者。
+- 如需帮助，请提交 issue 至插件 [GitHub 仓库](https://github.com/SunYoY/wp-multi-ai-writer)或联系开发者。
 
 ## 更新日志
 
